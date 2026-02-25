@@ -14,3 +14,4 @@ pyqt = "5.15.*"
 geoai = ">=0.24.0"
 segment-geospatial = ">=1.2.0"
 sam3 = ">=0.1.0.20251211"
+    
